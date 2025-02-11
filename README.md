@@ -22,7 +22,7 @@ I found this video series from this [guide](https://github.com/louisfb01/start-m
 This video explains the transformer architecture as a whole, covering the missing aspects in the previous video.
 
 ## c) Training LLM
-[Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)<br/>
+### [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)<br/>
 Now, after learning about the basics of transformer architecture, I would recommend to make your hands dirty by trying this course. This course is a collaboration between deeplearning.ai and AWS, so the labs are conducted using AWS SageMaker (similar to Google Colab).
 This course offers three modules, including:
 - generative AI use cases, project lifecycle, and model pre-training,
