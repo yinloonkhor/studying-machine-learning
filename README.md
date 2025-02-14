@@ -12,7 +12,9 @@ Three courses are included in this series, covering:
 - advanced learning algorithms and
 - unsupervised learning, recommenders and reinforcement learning.
 
-Deeplearning.ai offers comprehensive AI courses to learn with Andrew Ng to teach the concepts using Python. I would recommend going through this series to get a fundamental understanding of ML. Understanding the math behind is a very important step. The quizzes and assignments can be obtained from [here](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera) with the notes [here](https://github.com/julianyulu/Machine-Learning-Notes?tab=readme-ov-file#last-update).
+Deeplearning.ai offers comprehensive AI courses to learn with Andrew Ng to teach the concepts using Python. I would recommend going through this series to get a fundamental understanding of ML. Understanding the math behind is a very important step. The quizzes and assignments can be obtained from [here](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera).</br></br>
+Note that if `.ipynb` file is not displaying properly in GitHub:</br>
+Go to [https://nbviewer.org/](https://nbviewer.org/) and paste your `.ipynb` github link here.
 
 ## b) Transformer Architecture
 ### [Natural Language Processing and Large Language Models](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv)<br/>
