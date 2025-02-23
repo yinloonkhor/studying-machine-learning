@@ -44,7 +44,7 @@ For this area, I use YouTube as the primary source of learning.
 - Stanford Univ CREATED the S1 Reasoning LLM (o1, R1): [Link](https://youtu.be/3tM3yc9UI84?si=CZ9LjOShcELdC4kk)
 
 ## Projects
-After learning these knowledge, I think it's time to get my hands dirty by trying some projects. My current idea is a specialized LLM for technical knowledge retrieval and reasoning which will be updated in another repo. Stay tuned!
+After learning these knowledge, I think it's time to get my hands dirty by trying some projects. Take a look at **Specialized LLM for Technical Knowledge Retrieval and Reasoning** which will be updated in another repo. Stay tuned!
 
 ### 👋 Connect!
 Reach me out on [LinkedIn](https://www.linkedin.com/in/yinloonkhor/) for any possible projects. I need money💰😆
